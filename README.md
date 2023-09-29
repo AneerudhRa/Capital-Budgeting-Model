@@ -1,6 +1,6 @@
 # Capital Budgeting Model in Excel with @Risk
 
-You can access the Excel here: (https://1drv.ms/x/s!At-yp_NBOa8EgoAckcg0IgQJXyWYQQ?e=Jd7njz](https://1drv.ms/x/s!At-yp_NBOa8EgoBWujItYMjSDthROg?e=vOd7NL)
+You can access the Excel here: (https://1drv.ms/x/s!At-yp_NBOa8EgoBWujItYMjSDthROg?e=HLuNld)
 
 ## Introduction
 
@@ -8,7 +8,7 @@ Welcome to the Capital Budgeting Model in Excel with @Risk repository! This repo
 
 ## Features
 
-- **@Risk Integration**: The Excel spreadsheet is integrated with the @Risk software, allowing for probabilistic modeling and analysis. You can simulate different scenarios and assess project risks.
+- **@Risk Requirement**: The Excel spreadsheet is integrated with the @Risk software, allowing for probabilistic modeling and analysis. Without the Software, the excel will look un filled and incomplete.
 
 - **Multiple Sheets**: The spreadsheet contains two sheets:
   1. **Static Sheet**: Use this sheet for traditional deterministic analysis. Input project details, financial information, and assumptions to evaluate project feasibility.
